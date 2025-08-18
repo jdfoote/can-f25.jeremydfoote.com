@@ -316,7 +316,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </ul></li>
   <li><a href="#harry_potter_data" id="toc-harry_potter_data" class="nav-link" data-scroll-target="#harry_potter_data">Harry Potter Data</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/edit/main/assignments/Visualization-challenge.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/edit/main/assignments/Visualization-challenge.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -363,8 +363,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidygraph)</span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggraph)</span>
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>nodes <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-s25.jeremydfoote.com/resources/school_graph_nodes.csv'</span>)</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>edges <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-s25.jeremydfoote.com/resources/school_graph_edges.csv'</span>)</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>nodes <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-f25.jeremydfoote.com/resources/school_graph_nodes.csv'</span>)</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>edges <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-f25.jeremydfoote.com/resources/school_graph_edges.csv'</span>)</span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>G <span class="ot">=</span> <span class="fu">graph_from_data_frame</span>(<span class="at">d=</span>edges, <span class="at">v=</span>nodes) <span class="sc">%&gt;%</span> <span class="fu">as_tbl_graph</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
@@ -384,8 +384,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidygraph)</span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggraph)</span>
 <span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>nodes <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-s25.jeremydfoote.com/resources/harry_potter/hp_node_atts.csv'</span>)</span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>edges <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-s25.jeremydfoote.com/resources/harry_potter/hp_edgelist.csv'</span>)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>nodes <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-f25.jeremydfoote.com/resources/harry_potter/hp_node_atts.csv'</span>)</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>edges <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">'https://can-f25.jeremydfoote.com/resources/harry_potter/hp_edgelist.csv'</span>)</span>
 <span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>G <span class="ot">=</span> <span class="fu">graph_from_data_frame</span>(<span class="at">d=</span>edges, <span class="at">v=</span>nodes) <span class="sc">%&gt;%</span> <span class="fu">as_tbl_graph</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
@@ -474,7 +474,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/can-s25\.jeremydfoote\.com");
+      var filterRegex = new RegExp("https:\/\/can-f25\.jeremydfoote\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -807,4 +807,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/edit/main/assignments/Visualization-challenge.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/edit/main/assignments/Visualization-challenge.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

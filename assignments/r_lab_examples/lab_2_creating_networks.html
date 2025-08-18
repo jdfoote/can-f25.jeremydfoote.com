@@ -164,7 +164,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#exercises" id="toc-exercises" class="nav-link" data-scroll-target="#exercises">Exercises</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/edit/main/assignments/r_lab_examples/lab_2_creating_networks.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="lab_2_creating_networks.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/edit/main/assignments/r_lab_examples/lab_2_creating_networks.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="lab_2_creating_networks.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -231,7 +231,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Save the spreadsheet to your computer as an XLSX file called <code>edges.xlsx</code>; make sure to save it to the same folder as this file.</p>
 <p>Uncomment the code below (by deleting the # symbol) and run it.</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>edgelist <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"/home/jeremy/Teaching/can-s25.jeremydfoote.com/assignments/r_lab_examples/edges.xlsx"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>edgelist <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"/home/jeremy/Teaching/can-f25.jeremydfoote.com/assignments/r_lab_examples/edges.xlsx"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>Look down at the R console (the bottom window) and see if it worked. You might get an error here that says something like <code>there is no function called 'readxl'</code>. If you get that, then you need to run <code>install.packages('tidyverse')</code> in the console (this is in the bottom window). It will take a while to install, but if it works correctly your code above should work.</p>
 <p>You may also get an error that’s something like <code>could not find function "read_excel"</code>. If you get that, then you need to run the cell at the top of this page (the one that starts with <code>knitr::opts_chunk$set(echo = TRUE)</code>). This will load the libraries that we need to run the rest of the code.</p>
@@ -302,7 +302,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Again, save it to this folder, as <code>node_atts.xlsx</code>.</p>
 <p>Here is my import code, which should work if you saved it to this folder:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>node_atts <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"/home/jeremy/Teaching/can-s25.jeremydfoote.com/assignments/r_lab_examples/node_atts.xlsx"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>node_atts <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"/home/jeremy/Teaching/can-f25.jeremydfoote.com/assignments/r_lab_examples/node_atts.xlsx"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>Uncomment and run the following code to check that it worked.</p>
 <div class="cell">
@@ -546,7 +546,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/can-s25\.jeremydfoote\.com");
+      var filterRegex = new RegExp("https:\/\/can-f25\.jeremydfoote\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -879,4 +879,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/edit/main/assignments/r_lab_examples/lab_2_creating_networks.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-s25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/edit/main/assignments/r_lab_examples/lab_2_creating_networks.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
