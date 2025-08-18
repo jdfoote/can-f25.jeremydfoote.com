@@ -81,10 +81,10 @@ website:
             - assignments/final_project/project-idea.qmd
             - assignments/final_project/rough-draft.qmd
 
-  repo-url: "https://github.com/jdfoote/can-s25.jeremydfoote.com"
+  repo-url: "https://github.com/jdfoote/can-f25.jeremydfoote.com"
   repo-actions: ["edit", "issue"]
   favicon: "resources/favicon.ico"
-  site-url: "https://can-s25.jeremydfoote.com"
+  site-url: "https://can-f25.jeremydfoote.com"
             
 
 

@@ -45,7 +45,7 @@ Save the spreadsheet to your computer as an XLSX file called `edges.xlsx`; make 
 Uncomment the code below (by deleting the # symbol) and run it. 
 
 ```{r}
-edgelist <- read_excel("/home/jeremy/Teaching/can-s25.jeremydfoote.com/assignments/r_lab_examples/edges.xlsx")
+edgelist <- read_excel("/home/jeremy/Teaching/can-f25.jeremydfoote.com/assignments/r_lab_examples/edges.xlsx")
 ```
 
 Look down at the R console (the bottom window) and see if it worked. You might get an error here that says something like `there is no function called 'readxl'`. If you get that, then you need to run `install.packages('tidyverse')` in the console (this is in the bottom window). It will take a while to install, but if it works correctly your code above should work.
@@ -84,7 +84,7 @@ Here is my import code, which should work if you saved it to this folder:
 
 ```{r}
 
-node_atts <- read_excel("/home/jeremy/Teaching/can-s25.jeremydfoote.com/assignments/r_lab_examples/node_atts.xlsx")
+node_atts <- read_excel("/home/jeremy/Teaching/can-f25.jeremydfoote.com/assignments/r_lab_examples/node_atts.xlsx")
 ```
 
 Uncomment and run the following code to check that it worked.
@@ -182,8 +182,8 @@ Finally, create a new network plot with the new person.
 
 ```{r echo=FALSE}
 ## YOUR CODE HERE
-e2 <- read_excel("/home/jeremy/Teaching/can-s25.jeremydfoote.com/assignments/r_lab_examples/edges_2.xlsx")
-n2 <- read_excel("/home/jeremy/Teaching/can-s25.jeremydfoote.com/assignments/r_lab_examples/node_atts_2.xlsx")
+e2 <- read_excel("/home/jeremy/Teaching/can-f25.jeremydfoote.com/assignments/r_lab_examples/edges_2.xlsx")
+n2 <- read_excel("/home/jeremy/Teaching/can-f25.jeremydfoote.com/assignments/r_lab_examples/node_atts_2.xlsx")
 G <- graph_from_data_frame(d = e2, 
                            vertices = n2, directed = T)
     
