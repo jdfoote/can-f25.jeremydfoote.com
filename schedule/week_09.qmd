@@ -1,6 +1,6 @@
 ---
 title: "Week 9: Scale-free networks and the friendship paradox"
-date: "2025-03-10"
+date: "2025-10-20"
 ---
 
 ### Tuesday

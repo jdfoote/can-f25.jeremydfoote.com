@@ -1,6 +1,6 @@
 ---
 title: "Week 14: Networks and Equality"
-date: "2025-04-21"
+date: "2025-12-01"
 ---
 
 

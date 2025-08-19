@@ -1,6 +1,6 @@
 ---
 title: "Week 12: Collective behavior"
-date: "2025-04-07"
+date: "2025-11-10"
 ---
 
 ### Tuesday

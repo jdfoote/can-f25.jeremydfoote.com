@@ -1,6 +1,6 @@
 ---
 title: "Week 6: Power, centrality, and hierarchy"
-date: "2025-02-17"
+date: "2025-09-29"
 ---
 
 ### Tuesday

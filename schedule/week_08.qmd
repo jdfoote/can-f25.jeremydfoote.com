@@ -1,6 +1,6 @@
 ---
 title: "Week 8: Small worlds"
-date: "2025-03-03"
+date: "2025-10-13"
 ---
 
 ### Tuesday

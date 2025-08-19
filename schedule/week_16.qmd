@@ -1,6 +1,6 @@
 ---
 title: "Finals week"
-date: "2025-05-05"
+date: "2025-12-15"
 ---
 
 **Assignments Due**

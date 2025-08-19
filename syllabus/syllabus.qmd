@@ -6,13 +6,13 @@ title: "Syllabus"
 
 **COM 411: Communication and Social Networks** <br/>
 **Location:** BRNG 2275 </br>
-**Class Hours:** Tuesdays and Thursdays; 12:00–1:15 PM
+**Class Hours:** Tuesdays and Thursdays; 10:30–11:45 AM
 
 ## Instructor
 
 **Instructor:** [Jeremy Foote](https://jeremydfoote.com)  
 **Email:** jdfoote@purdue.edu  
-**Office Hours:** BRNG 2156; Tuesdays; 2:00–4:00pm and by appointment
+**Office Hours:** BRNG 2156; Tuesdays; 1:00–3:00pm and by appointment
 
 
 # Course Overview and Learning Objectives
@@ -36,7 +36,7 @@ This semester, we are going to try using VSCode, an IDE which can write R code, 
 
 ## Readings
 
-* Required texts:
+* Textbooks (readings are linked from the schedule):
   * Easley, D., & Kleinberg, J. (2010). Networks, crowds, and markets. Cambridge University Press. [[web edition (free)](https://www.cs.cornell.edu/home/kleinber/networks-book/)] [[pre-print pdf (free)](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)] [[print edition (Amazon)](https://smile.amazon.com/Networks-Crowds-Markets-Reasoning-Connected/dp/0521195330/)]
   * Hanneman, R. A., & Riddle, M. (2005). Introduction to social network methods. Riverside, CA: University of California, Riverside [[web edition (free)](http://faculty.ucr.edu/~hanneman/nettext/)]
 
@@ -45,6 +45,8 @@ This semester, we are going to try using VSCode, an IDE which can write R code, 
 ### Reading Academic Articles
 
 Many of the readings will be academic articles. I do not expect you to read every word of these articles. Rather, you should practice intentional directed skimming. [This article](https://writingcenter.gmu.edu/guides/strategies-for-reading-academic-articles) gives a nice overview. The TL;DR is that you should carefully read the abstract, introduction, and conclusion. For the rest of the article, focus on section headings and topic sentences to extract the main ideas.
+
+LLMs like Claude.AI, Gemini, or ChatGPT can also be helpful in summarizing and extracting key points from these articles, but I expect you to engage with the material critically and not rely solely on AI for understanding.
 
 ## Other suggested books
 
