@@ -62,7 +62,7 @@ LLMs like Claude.AI, Gemini, or ChatGPT can also be helpful in summarizing and e
 Although the core expectations for this class are fixed, the details of readings and assignments may shift based on how the class goes. As a result, there are three important things to keep in mind:
 
 1. Although details on this syllabus will change, I will not change readings or assignments less than one week before they are due. If I don't fill in a "To Be Determined" one week before it's due, it is dropped. If you plan to read more than one week ahead, contact me first.
-2. Closely monitor the class [Discord](/schedule/pages/Discord-Signup.html). Because this is a wiki, you will be able to track every change by clicking the 'history' button on this page. I will also summarize these changes in an announcement on Discord that should be emailed to everybody in the class if you have notifications turned on.
+2. Closely monitor the class [Discord](/schedule/pages/Discord-Signup.html). I will summarize changes in announcements on Discord that should be emailed to everybody in the class if you have notifications turned on.
 3. I will ask the class for voluntary anonymous feedback frequently. Please let me know what is working and what can be improved.
 
 ## Class Sessions

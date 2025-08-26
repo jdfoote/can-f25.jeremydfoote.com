@@ -208,7 +208,7 @@ Find and Assess a network visualization
 
 > - Use Google Images (or similar) to find an image of a network graphs.
 > - What do you think the image does well and poorly? Does it follow Sugiyama's rules?
-> - Put the image (and your assessment) on the padlet at https://padlet.com/jdfoote1/networks (link is also on wiki)
+> - Put the image (and your assessment) on the padlet at https://padlet.com/jdfoote1/networks
 
 ## Discussion
 
