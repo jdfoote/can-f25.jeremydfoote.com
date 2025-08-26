@@ -5,6 +5,8 @@ date: "2025-10-13"
 
 ### Tuesday
 
+**No Class - FALL BREAK**
+
 **Assignment Due (Wednesday):**
 
 * [R Lab 5 - Aesthetics in ggraph](/assignments/r_lab_5_%E2%80%93_aesthetics_in_ggraph.qmd)

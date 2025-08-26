@@ -210,6 +210,15 @@ It is essential to the success of this class that all participants feel comforta
 
 While I encourage collaboration, I expect that any work that you submit is your own. Basic guidelines for Purdue students are outlined [here](https://www.purdue.edu/odos/osrr/academic-integrity/index.html), but I expect you to be exemplary members of the academic community. Please get in touch if you have any questions or concerns.
 
+### AI Policy
+
+Academic integrity also applies to AI. I am a technology optimist, and an AI optimist. I think AI can be an amazing tool for education and learning, but it can also be misused. I expect you to use AI responsibly. Specifically:
+
+- You write your own work.
+- You can use AI to help understand topics and readings. Indeed, I hope you do.
+- You can use AI to understand how to fix programming bugs, but don't ask it to write your code for you.
+- You can use AI to brainstorm ideas or get feedback on your work, but not for writing your assignments.
+
 ## Nondiscrimination
 
 I strongly support Purdue's policy of nondiscrimination (below). If you feel like any member of our classroom--including me--is not living up to these principles, then please come and talk to me about it.

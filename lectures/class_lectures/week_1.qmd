@@ -77,7 +77,10 @@ Why did the nearsighted man fall in the well?
 
 ## Who you are connected to can be more important than who you are
 
-![](./images/covid_bubble.png){.fragment width=60%}
+::: {.fragment}
+
+![](./images/covid_bubble.png){alt="Diagram showing overlapping social bubbles with groups of people represented by icons inside colored circles. One person is highlighted in yellow with a speech bubble above reading THE BUBBLE YOU THINK YOU HAVE. Several circles overlap, illustrating how social connections extend beyond immediate contacts. Red virus icons appear in some circles, indicating potential spread of disease. At the bottom, text reads THE BUBBLE YOU ACTUALLY HAVE. The image is from the General Building Contractors Association. The tone is cautionary, emphasizing how our social connections are larger and more interconnected than we might assume." style="max-width:600px;"}
+:::
 
 ## Goals
  1. Understand the foundations of network theory and analysis
@@ -205,6 +208,21 @@ Options:
 
  - Tuesdays, 2-4
 	- Also open to meeting virtually
+
+## AI Tools
+
+- AI is incredible
+   - It can be an amazing tutor
+   - It can provide personalized feedback
+   - It can help with research and data analysis
+
+## (Tentative) AI Policy
+
+- Work must be your work
+  - You write your assignments
+  - Ask AI for help with understanding concepts or generating ideas, but not for writing your assignments.
+  - You can use AI to understand topics and readings.
+- Thoughts
 
 ## Please be vocal
 - I will solicit feedback as part of reflections
