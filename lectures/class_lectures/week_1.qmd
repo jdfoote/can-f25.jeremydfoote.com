@@ -146,9 +146,10 @@ Why did the nearsighted man fall in the well?
 
 ## Readings
  - Academic papers
-	- Typically linked from wiki
+  - Linked from site
 	- A few on Brightspace (I will make this clear)
  - Textbooks
+  - Linked from site
 	- Networks, Crowds and Markets
 	- Introduction to social network methods
 
@@ -206,8 +207,8 @@ Options:
 
 ## Office Hours
 
- - Tuesdays, 2-4
-	- Also open to meeting virtually
+ - Tuesdays, 1-3
+	- Also open to meeting virtually or at other times
 
 ## AI Tools
 
