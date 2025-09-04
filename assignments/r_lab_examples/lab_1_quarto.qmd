@@ -96,13 +96,13 @@ Create a new code block, and copy and paste the following into it, and then run 
 ```
 library(igraph)
 
-G = erdos.renyi.game(10, .6)
+G = sample_gnp(10, .6)
 plot(G)
 ```
 
 ```{r echo=FALSE}
 library(igraph)
 
-G = erdos.renyi.game(10, .6)
+G = sample_gnp(10, .6)
 plot(G)
 ```

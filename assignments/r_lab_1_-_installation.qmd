@@ -65,15 +65,3 @@ If things aren't working then ask a neighbor for help.
 This was from an older version of VSCode, but should still be helpful:
 
 {{< video https://youtu.be/7QKuOHoMoZA >}}
-
-
-### Set up Github Copilot {#set_up_github_copilot}
-
-If you want to use Github Copilot
-
-1.  Sign up for an account at [Github
-    education](https://education.github.com/students)
-2.  Install the GitHub Copilot extension in VSCode
-3.  Authenticate using the popup that shows up in the bottom right
-
-We will talk more about how to use Copilot in class.
