@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Dr.&nbsp;Foote’s example">
 
-<title>Communication and Social Networks - Markdown and Network Plotting</title>
+<title>Communication and Social Networks - NotebookLM as a study partner</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,60 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../resources/favicon.ico" rel="icon">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../resources/favicon.ico" rel="icon">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -104,7 +69,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }</script>
 
 
-<link rel="stylesheet" href="../../resources/custom_css.css">
+<link rel="stylesheet" href="../resources/custom_css.css">
 </head>
 
 <body class="nav-fixed">
@@ -114,7 +79,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Communication and Social Networks</span>
     </a>
   </div>
@@ -125,15 +90,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../syllabus/syllabus.html"> 
+    <a class="nav-link" href="../syllabus/syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../schedule.html"> 
+    <a class="nav-link" href="../schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../assignments/assignments.html"> 
+    <a class="nav-link" href="../assignments/assignments.html"> 
 <span class="menu-text">Assignments</span></a>
   </li>  
 </ul>
@@ -148,149 +113,30 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
-  <li><a href="#making-documents" id="toc-making-documents" class="nav-link" data-scroll-target="#making-documents">Making documents</a></li>
-  <li><a href="#excecuting-code" id="toc-excecuting-code" class="nav-link" data-scroll-target="#excecuting-code">Excecuting Code</a>
-  <ul class="collapse">
-  <li><a href="#excercise" id="toc-excercise" class="nav-link" data-scroll-target="#excercise">Excercise</a></li>
-  </ul></li>
-  <li><a href="#writing-code" id="toc-writing-code" class="nav-link" data-scroll-target="#writing-code">Writing code</a></li>
-  <li><a href="#packages" id="toc-packages" class="nav-link" data-scroll-target="#packages">Packages</a>
-  <ul class="collapse">
-  <li><a href="#excercises" id="toc-excercises" class="nav-link" data-scroll-target="#excercises">Excercises</a></li>
-  <li><a href="#what-i-hope-to-get-from-class" id="toc-what-i-hope-to-get-from-class" class="nav-link" data-scroll-target="#what-i-hope-to-get-from-class">What I hope to get from class</a></li>
-  </ul></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/edit/main/assignments/r_lab_examples/lab_1_quarto.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="lab_1_quarto.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header">
-<h1 class="title display-7">Markdown and Network Plotting</h1>
+<h1 class="title display-7">NotebookLM as a study partner</h1>
 
 </header>
 
 
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>This is a <a href="https://quarto.org">Quarto</a> Notebook. The goal of Quarto Notebooks is to write documents and reports that intersperse text and code. They can be used for writing reports, creating slides, or even writing books.</p>
-<p>The text is written in <a href="https://rmarkdown.rstudio.com/authoring_pandoc_markdown.html">markdown</a>. It has lots of different formatting options. Just take a look at this document for example, such as the “Introduction” header or the links in this section.</p>
-</section>
-<section id="making-documents" class="level2">
-<h2 class="anchored" data-anchor-id="making-documents">Making documents</h2>
-<p>You can either interact with Quarto files within VSCode or “render” them into finished documents. To create a finished document, open the document that you want to change, and look at the top right. The square icon will render the document. By default, this will create a new PDF file in the same directory as this file, and will open that file in the Quarto Preview window.</p>
-<p>If that doesn’t work, you may need to install tinytex first. To do that, run the following code in the terminal at the bottom of VSCode: <code>quarto install tinytex</code>.</p>
-<p>Once you get PDFs working, try changing the <code>format</code> at the top of this document to <code>html</code> or <code>docx</code>. Then render the document again. This time, it should create an HTML file (or Word Document) in the same directory as this file.</p>
-</section>
-<section id="excecuting-code" class="level2">
-<h2 class="anchored" data-anchor-id="excecuting-code">Excecuting Code</h2>
-<p>When you execute code within VSCode, the code runs in the terminal. If there is visual output, then it will appear in a pane to the right.</p>
-<p>Try executing this chunk by clicking <em>Run Cell</em> or by placing your cursor inside the code chunk it and pressing <code>Ctrl+Shift+Enter</code>.</p>
-<section id="excercise" class="level3">
-<h3 class="anchored" data-anchor-id="excercise">Excercise</h3>
-<p><em>Run the code below both ways</em></p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>x <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">43</span>,<span class="dv">643</span>,<span class="dv">765</span>)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="fu">paste</span>(<span class="st">"The mean of x is"</span>, <span class="fu">mean</span>(x)))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] "The mean of x is 483.666666666667"</code></pre>
-</div>
-</div>
-<p><code>Ctrl+Shift+Enter</code> will run the whole chunk. If you want to run just the line of code that your cursor is on, then press <code>Ctrl+Enter</code> (<code>Cmd+Return</code> on Macs).</p>
-</section>
-</section>
-<section id="writing-code" class="level2">
-<h2 class="anchored" data-anchor-id="writing-code">Writing code</h2>
-<p>Code that will be run is marked with three backticks (`) followed by <code>{r}</code>, and ends with three more backticks. The simplest way to create a code block is to do <code>Ctrl+Shift+I</code>. This will create a code block with the cursor in the middle, and you can just start typing your code.</p>
-<p>By default, the code and the output will appear in the created document, but you can set <code>echo=FALSE</code> and it will just show the output. Typically, you would want to do this when you’re creating a plot.</p>
-<p>For example, the code below creates a scatterplot. For now, don’t worry about what all of the code means—we’ll come to that in later lessons. Just note that when you <code>render</code> the document, it doesn’t show the <code>plot(mtcars$disp, mtcars$mpg)</code> code—it just shows the scatterplot.</p>
-<p>When you run this code in VSCode, it should show the scatterplot in the right pane. If it doesn’t, then you may have to click on “R:(not attached)” in the bottom right corner of the screen. This should connect your session to R, and then it should work.</p>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="lab_1_quarto_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="packages" class="level2">
-<h2 class="anchored" data-anchor-id="packages">Packages</h2>
-<p>The last concept for today is “packages”. A package is a collection of functions and/or data. For example, <code>igraph</code> and <code>tidygraph</code> are two packages that make it much, much easier to work with network data.</p>
-<p>There are two steps to using a package. First, you need to install it. This downloads the package to your computer. <em>You only need to do this once</em>.</p>
-<p>Step two is to load it into R from your computer. This brings it into R so that R can use it. This is done with the <code>library</code> command.</p>
-<p>Hopefully everything worked and you already installed the packages that you will need. Let’s check.</p>
-<section id="excercises" class="level3">
-<h3 class="anchored" data-anchor-id="excercises">Excercises</h3>
-<p><strong>Note from Dr.&nbsp;Foote: In these example documents, I will typically hide the code I use to produce plots and figures (by setting <code>echo=FALSE</code>). You shouldn’t do that, and your documents should show the code used to produce figures.</strong></p>
+<p>For this assignment, I created a <a href="https://notebooklm.google.com/notebook/366fc620-b1ad-46b5-afc0-c74e4a619323">NotebookLM notebook</a> with all of the readings and lecture slides for the course.</p>
+<p>I want you to have a conversation with the AI.</p>
 <ol type="1">
-<li>Create a new section explaining what you hope to get out of this class. It should include a header (Hint: the header for this section is called ‘Exercises’) and a paragraph of content. When you’re done, render the document again so you can see what your paragraph looks like in the finished document.</li>
+<li>Ask it to summarize one of the readings.</li>
+<li>Look up something really specific from one of the readings, and see if it is correct. (e.g., “What percent of friendships are not reciprocal in the Pentland reading?”)</li>
+<li>Ask it to explain a concept that you found confusing.</li>
+<li>Ask it about the relationship between two concepts (e.g., “What does Burt’s concept of structural holes have to do with Granovetter’s concept of weak ties?”)</li>
+<li>Ask it to quiz you on the readings. (e.g., “Quiz me on the key concepts from the Katz et al reading.”)</li>
+<li>Ask it to give you feedback on an idea you have for your final project.</li>
 </ol>
-</section>
-<section id="what-i-hope-to-get-from-class" class="level3">
-<h3 class="anchored" data-anchor-id="what-i-hope-to-get-from-class">What I hope to get from class</h3>
-<p>I just find Dr.&nbsp;Foote soooo inspiring. He is just the best professor at Purdue and I can’t wait to learn more about social networks!</p>
-<ol start="2" type="1">
-<li>Create your own code block below, and copy and paste the following code into it: <code>hist(iris$Petal.Length)</code></li>
-</ol>
-<p>If you do it correctly, you should see a histogram plot (a figure with a bunch of vertical gray bars)</p>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="lab_1_quarto_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
-<ol start="3" type="1">
-<li>Try to load the igraph library. To do this, create a new code block and copy and paste the following into it: <code>library(igraph)</code>. Then run the code. If it works, you should see a message that says <code>Attaching package: ‘igraph’</code>. If you don’t see that message, then you need to install the package. To do that, run the following code in an R terminal at the bottom of VSCode. To get to an R terminal, just click <code>Run Cell</code> on one of the code cells above. Then, in the R terminal type: <code>install.packages('igraph')</code>.</li>
-</ol>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(igraph)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>
-Attaching package: 'igraph'</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>The following objects are masked from 'package:stats':
-
-    decompose, spectrum</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>The following object is masked from 'package:base':
-
-    union</code></pre>
-</div>
-</div>
-<ol start="4" type="1">
-<li>Now that igraph is installed, let’s create our first network graph!!</li>
-</ol>
-<p>Create a new code block, and copy and paste the following into it, and then run it. Note that the first line, <code>library(igraph)</code> loads the <code>igraph</code> package into R. The next few lines create a random network and then make a simple plot of it.</p>
-<pre><code>library(igraph)
-
-G = sample_gnp(10, .6)
-plot(G)</code></pre>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="lab_1_quarto_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
+<p>Once you have done this, write a brief reflection (1-2 paragraphs) on your experience. What worked well? What didn’t? Were there things that the AI got wrong? How does this compare to other AI tools you have used?</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -707,4 +553,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/edit/main/assignments/r_lab_examples/lab_1_quarto.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/edit/main/assignments/ai_conversation.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/can-f25.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
