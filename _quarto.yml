@@ -60,6 +60,7 @@ website:
               href: assignments/assignments.qmd
             - assignments/Homework-1.qmd
             - assignments/ego_networks_activity.qmd
+            - assignments/ai_conversation.qmd
             - assignments/Social-Search-Assignment.qmd
             - assignments/Visualization-challenge.qmd
             - assignments/Self-Assessment-Reflection.qmd
