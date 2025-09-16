@@ -225,7 +225,7 @@
     "href": "schedule/week_06.html",
     "title": "Week 6: Power, centrality, and hierarchy",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nR Lab 3 - Mutating and filtering\nReading Review Assignments\n\nDiscussion Questions\n\n\nReadings:\n\nHanneman, R. A., & Riddle, M. (2005). Introduction to social network methods. Chapter 10: Centrality and Power\nHealy, K. (2013). Using Metadata to find Paul Revere.\nCentrality measures. Matthew Jackson. From Social and Economic Networks course\nCentrality Eigenvector Measures. Matthew Jackson\n(Optional) Holliday, Audrey, Campbell, & Moore, (2016). Identifying well-connected opinion leaders for informal health promotion\n\nVideo lecture:\n [18:44]\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nR Lab 4 - Intro to ggraph\n\n\n\nDiscussion Questions",
+    "text": "Tuesday\nAssignment Due:\n\nR Lab 3 - Mutating and filtering\nReading Review Assignments\n\nDiscussion Questions\n\nAI-assisted conversation assignment\n\nReadings:\n\nHanneman, R. A., & Riddle, M. (2005). Introduction to social network methods. Chapter 10: Centrality and Power\nHealy, K. (2013). Using Metadata to find Paul Revere.\nCentrality measures. Matthew Jackson. From Social and Economic Networks course\nCentrality Eigenvector Measures. Matthew Jackson\n(Optional) Holliday, Audrey, Campbell, & Moore, (2016). Identifying well-connected opinion leaders for informal health promotion\n\nVideo lecture:\n [18:44]\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nR Lab 4 - Intro to ggraph\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -1889,7 +1889,11 @@
     "href": "assignments/ai_conversation.html",
     "title": "NotebookLM as a study partner",
     "section": "",
-    "text": "For this assignment, I created a NotebookLM notebook with all of the readings and lecture slides for the course.\nI want you to have a conversation with the AI.\n\nAsk it to summarize one of the readings.\nLook up something really specific from one of the readings, and see if it is correct. (e.g., “What percent of friendships are not reciprocal in the Pentland reading?”)\nAsk it to explain a concept that you found confusing.\nAsk it about the relationship between two concepts (e.g., “What does Burt’s concept of structural holes have to do with Granovetter’s concept of weak ties?”)\nAsk it to quiz you on the readings. (e.g., “Quiz me on the key concepts from the Katz et al reading.”)\nAsk it to give you feedback on an idea you have for your final project.\n\nOnce you have done this, write a brief reflection (1-2 paragraphs) on your experience. What worked well? What didn’t? Were there things that the AI got wrong? How does this compare to other AI tools you have used?"
+    "text": "For this assignment, I created a NotebookLM notebook with all of the readings and lecture slides for the course.\nI want you to have a conversation with the AI.\n\nAsk it to summarize one of the readings.\nLook up something really specific from one of the readings, and see if it is correct. (e.g., “What percent of friendships are not reciprocal in the Pentland reading?”)\nAsk it to explain a concept that you found confusing.\nAsk it about the relationship between two concepts (e.g., “What does Burt’s concept of structural holes have to do with Granovetter’s concept of weak ties?”)\nAsk it to quiz you on the readings. (e.g., “Quiz me on the key concepts from the Katz et al reading.”)\nAsk it to give you feedback on an idea you have for your final project.\n\nOnce you have done this, write a brief reflection (1-2 paragraphs) on your experience. What worked well? What didn’t? Were there things that the AI got wrong? How does this compare to other AI tools you have used?",
+    "crumbs": [
+      "Assignments",
+      "NotebookLM as a study partner"
+    ]
   },
   {
     "objectID": "assignments/Visualization-challenge.html",
