@@ -139,7 +139,7 @@ Remember that the order matters - if we ran `mutate` before `filter` then it wou
 
 ## Excercises
 
-1. Modify the code on lines 49-53 to calculate the betweenness centrality instead of the degree of `G`. Name the column `betweenness` (Hint: use the `centrality_betweenness()` function. ([Here is the list of all centrality functions](https://tidygraph.data-imaginist.com/reference/centrality.html).)
+1. Copy the code from lines 60-65 and modify it below to calculate the betweenness centrality instead of the degree of `G`. Name the column `betweenness` (Hint: use the `centrality_betweenness()` function. ([Here is the list of all centrality functions](https://tidygraph.data-imaginist.com/reference/centrality.html).)
 
 ```{r echo=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
