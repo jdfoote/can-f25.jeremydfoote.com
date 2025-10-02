@@ -959,21 +959,21 @@
     "href": "lectures/class_lectures/week_5.html#self-reflections-and-feedback",
     "title": "Week 5 - Ego Networks",
     "section": "Self Reflections and feedback",
-    "text": "Self Reflections and feedback\n\nMake sure to get them in\nOverall, things are going well"
+    "text": "Self Reflections and feedback\n\nMake sure to get them in\nOverall, things are going well\nPlease give feedback on the Google Form"
   },
   {
     "objectID": "lectures/class_lectures/week_5.html#housekeeping",
     "href": "lectures/class_lectures/week_5.html#housekeeping",
     "title": "Week 5 - Ego Networks",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nVideos + readings on centrality and power\nHow do we measure who is important and influential?\nThursday\n\nEgo network activity\nMore co-working time"
+    "text": "Housekeeping\n\nVideos + readings on centrality and power\nHow do we measure who is important and influential?\nAI assignment next week\nThursday\n\nEgo network activity\nMore co-working time"
   },
   {
-    "objectID": "lectures/class_lectures/week_5.html#example",
-    "href": "lectures/class_lectures/week_5.html#example",
+    "objectID": "lectures/class_lectures/week_5.html#debugging",
+    "href": "lectures/class_lectures/week_5.html#debugging",
     "title": "Week 5 - Ego Networks",
-    "section": "3-2-1 Example",
-    "text": "3-2-1 Example"
+    "section": "Debugging",
+    "text": "Debugging\nStrategies when R code doesn’t work:\n\nSimplify\nprint()\nChatGPT\nGoogle!\nFriends"
   },
   {
     "objectID": "lectures/class_lectures/week_5.html#homework-review",
@@ -990,25 +990,39 @@
     "text": "Review\n\nWhat is an “ego network”?\nWhat are the benefits of having a dense ego network?\nWhat are the benefits of having a sparse ego network?"
   },
   {
+    "objectID": "lectures/class_lectures/week_5.html#dense-network-example",
+    "href": "lectures/class_lectures/week_5.html#dense-network-example",
+    "title": "Week 5 - Ego Networks",
+    "section": "Dense Network Example",
+    "text": "Dense Network Example"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_5.html#sparse-network-example",
+    "href": "lectures/class_lectures/week_5.html#sparse-network-example",
+    "title": "Week 5 - Ego Networks",
+    "section": "Sparse Network Example",
+    "text": "Sparse Network Example"
+  },
+  {
     "objectID": "lectures/class_lectures/week_5.html#review-1",
     "href": "lectures/class_lectures/week_5.html#review-1",
     "title": "Week 5 - Ego Networks",
     "section": "Review",
-    "text": "Review\n\nWhat are some reasons that you think friendship can be asymmetrical?\nIs there such thing as a “true” social network? How could we find it out?\nWhat are some ways that our perceptions of a network could influence our behaviors?"
+    "text": "Review\n\nWhat are some reasons that you think friendship can be asymmetrical?\nIs there such thing as a “true” social network? How could we find it out?\nWhat are some ways that our perceptions of a network could influence our behaviors?\n\n\n\nDifferent perception of “friendship”\nDifferent cognitive activation (who comes to mind)\nAmbition / social status"
   },
   {
     "objectID": "lectures/class_lectures/week_5.html#review-2",
     "href": "lectures/class_lectures/week_5.html#review-2",
     "title": "Week 5 - Ego Networks",
     "section": "Review",
-    "text": "Review\n\nWhat is the “cognitive activation” of a network?\nWhy might SES be related to which networks are activated in stress?"
+    "text": "Review\n\nWhat is the “cognitive activation” of a network? What is mobilization?\nWhy might SES be related to which networks are activated in stress?"
   },
   {
     "objectID": "lectures/class_lectures/week_5.html#discussion-questions",
     "href": "lectures/class_lectures/week_5.html#discussion-questions",
     "title": "Week 5 - Ego Networks",
     "section": "Discussion Questions",
-    "text": "Discussion Questions"
+    "text": "Discussion Questions\n\nPerceived vs. “actual” networks\nHow do we measure “actual” networks?\nTie strength, density, and herd mentality"
   },
   {
     "objectID": "lectures/class_lectures/week_5.html#summary",
@@ -1016,13 +1030,6 @@
     "title": "Week 5 - Ego Networks",
     "section": "Summary",
     "text": "Summary"
-  },
-  {
-    "objectID": "lectures/class_lectures/week_5.html#debugging",
-    "href": "lectures/class_lectures/week_5.html#debugging",
-    "title": "Week 5 - Ego Networks",
-    "section": "Debugging",
-    "text": "Debugging\nStrategies when R code doesn’t work:\n\nSimplify\nprint()\nChatGPT\nGoogle!\nFriends"
   },
   {
     "objectID": "lectures/class_lectures/week_5.html#what-do-our-ego-networks-look-like",
@@ -2326,7 +2333,7 @@
     "href": "assignments/final_project/Final-project.html#timeline",
     "title": "Final project",
     "section": "Timeline",
-    "text": "Timeline\n\nMarch 11: Final Project Idea\nApril 24: Rough Draft\nApril 26: Peer Feedback\nApril 29 / May 1: Presentations\nMay 2: Final Project Due",
+    "text": "Timeline\n\nOctober 20: Final Project Idea\nDecember 4: Rough Draft\nDecember 6: Peer Feedback\nDecember 9 / 11: Presentations\nDecember 12: Final Project Due",
     "crumbs": [
       "Assignments",
       "Final Project",
@@ -3113,25 +3120,32 @@
     "href": "lectures/class_lectures/week_6.html#housekeeping",
     "title": "Week 6 - Centrality and Centralization",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nSelf Assessment Reflection Feedback is done\nHomework questions on Discord\n\nHow to copy and paste code\n\nA lot like qmd files\n\n\n\n```r\n\nG |&gt;\n  activate(nodes) |&gt;\n  filter(age &gt; 25)\n```"
+    "text": "Housekeeping\n\nSelf Assessment Reflection Feedback coming soonish\nHomework questions on Discord\n\nHow to copy and paste code\n\nA lot like qmd files\n\n\n\n```r\n\nG |&gt;\n  activate(nodes) |&gt;\n  filter(age &gt; 25)\n```"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_6.html#housekeeping-1",
+    "href": "lectures/class_lectures/week_6.html#housekeeping-1",
+    "title": "Week 6 - Centrality and Centralization",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nHow did the AI assignment go?\n\nWhat was it good at?\nWhat was it bad at?"
   },
   {
     "objectID": "lectures/class_lectures/week_6.html#concept-review",
     "href": "lectures/class_lectures/week_6.html#concept-review",
     "title": "Week 6 - Centrality and Centralization",
     "section": "Concept Review",
-    "text": "Concept Review\n\nWhat is centrality?\nWhat is the difference between centrality and centralization?\nWhat is degree centrality?\nWhat are some shortcomings of degree centrality as a measure of power/influence?"
+    "text": "Concept Review\n\nWhat is centrality?\nWhat is the difference between centrality and centralization?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_6.html#flash-presentations",
+    "href": "lectures/class_lectures/week_6.html#flash-presentations",
+    "title": "Week 6 - Centrality and Centralization",
+    "section": "Flash presentations",
+    "text": "Flash presentations\n\nChoose one centrality measure\n4 minutes of prep\n1-2 minutes of presentation\nWhat is it? How is it calculated? What does it tell us about power/influence?"
   },
   {
     "objectID": "lectures/class_lectures/week_6.html#concept-review-1",
     "href": "lectures/class_lectures/week_6.html#concept-review-1",
-    "title": "Week 6 - Centrality and Centralization",
-    "section": "Concept Review",
-    "text": "Concept Review\n\nWhat is betweenness centrality?\nWhat is closeness centrality?\nWhat is eigenvector centrality?"
-  },
-  {
-    "objectID": "lectures/class_lectures/week_6.html#concept-review-2",
-    "href": "lectures/class_lectures/week_6.html#concept-review-2",
     "title": "Week 6 - Centrality and Centralization",
     "section": "Concept Review",
     "text": "Concept Review\n\nWhat aspects of power/influence do centrality measures miss?\nWhat can centralization tell us about a network?\nWhat does density tell us about a network?\nWhat is hierarchy?"
@@ -3155,7 +3169,7 @@
     "href": "lectures/class_lectures/week_6.html#discussion-questions",
     "title": "Week 6 - Centrality and Centralization",
     "section": "Discussion Questions",
-    "text": "Discussion Questions\n\nBipartite graphs (Paul Revere)\nHow do these approaches scale to huge networks?\nHow are centrality measures impacted by missing data?\nHierarchy and directed networks"
+    "text": "Discussion Questions\n\nCould someone have high network centrality but low actual power/influence?\nDoes network position cause influence, or vice versa?\nBipartite graphs (Paul Revere)\nHow do these approaches scale to huge networks?\nHow are centrality measures impacted by missing data?"
   },
   {
     "objectID": "lectures/class_lectures/week_6.html#r-review",
