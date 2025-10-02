@@ -28,22 +28,30 @@ I had to put my foot down.
 
 ## Housekeeping
 
-> - Self Assessment Reflection Feedback is done
+> - Self Assessment Reflection Feedback coming soonish
 > - Homework questions on Discord
 >	- How to copy and paste code
 > - A lot like qmd files
 
 <div class='fragment'>
 <code><pre>
+
 ```r
 
 G |>
   activate(nodes) |>
   filter(age > 25)
 ```
+
 </pre>
 </code>
 </div>
+
+## Housekeeping
+
+> - How did the AI assignment go?
+>   - What was it good at?
+>   - What was it bad at?
 
 
 <!--
@@ -60,14 +68,21 @@ G |>
 
 > - What is centrality?
 > - What is the difference between centrality and centralization?
-> - What is degree centrality?
-> - What are some shortcomings of degree centrality as a measure of power/influence?
 
+## Flash presentations
+
+> - Choose one centrality measure
+> - 4 minutes of prep
+> - 1-2 minutes of presentation
+> - What is it? How is it calculated? What does it tell us about power/influence?
+
+<!--
 ## Concept Review
 
 > - What is betweenness centrality?
 > - What is closeness centrality?
 > - What is eigenvector centrality?
+-->
 
 ## Concept Review
 
@@ -111,10 +126,11 @@ G |>
 
 ## Discussion Questions
 
+> - Could someone have high network centrality but low actual power/influence?
+> - Does network position cause influence, or vice versa?
 > - Bipartite graphs (Paul Revere)
 > - How do these approaches scale to huge networks?
 > - How are centrality measures impacted by missing data?
-> - Hierarchy and directed networks
 
 
 ## R Review

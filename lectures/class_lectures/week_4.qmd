@@ -32,6 +32,7 @@ Luckily I was still up playing the drums.
 ## Housekeeping
 
 > - Practice asking a question on Discord
+> - Which week are we on?
 
 ## Housekeeping
 
@@ -41,11 +42,13 @@ Luckily I was still up playing the drums.
 > - I will also
 > 	- Review the report on participation
 > 	- Review your HW
-> 	- Review your discussion questions
+> 	- Review your 3-2-1s
 
 ## Homework review
 
 ## What concepts are confusing?
+
+> -In R, what are the main differences between a tibble (from the tidyverse) and a standard data frame, and when should I use one over the other?
 
 ## Review Questions
 
@@ -61,6 +64,8 @@ Luckily I was still up playing the drums.
 >	- A trust network?
 > - Have you thought about the groups that you are in from a network perspective? What insights have you had?
 
+## Technology break!
+
 ## Review Questions
 
 > - What is hierarchy?
@@ -70,8 +75,12 @@ Luckily I was still up playing the drums.
 
 ## Discussion Questions
 
-> - How can organizations intentionally foster beneficial informal networks without making them feel forced or artificial?
+> - How can managers or researchers measure networks in real time to avoid relying only on static snapshots?
+> - Degree centrality vs. closeness centrality
+> - Why are they called "informal networks" if it's still people you work with?
 > - Are strong ties always better than weak ties for productivity?
+> - How common is it for businesses to utilize network mapping?
+> - What are the downsides of relying on informal networks to make decisions?
 
 
 ## Thursday
