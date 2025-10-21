@@ -39,6 +39,20 @@ library(ggraph)
 
 -->
 
+## R Review
+
+```
+G |>
+  ggraph(layout='kk') +
+  geom_edge_fan(width=.5, color='#CFB991') +
+  geom_node_point()
+```
+
+> - What does the `+` do?
+> - What does the `|>` do?
+> - What does `layout='kk'` do?
+> - What does `width=.5` do?
+
 ## Reading Questions
 
 > - What is a weak tie?
@@ -53,6 +67,7 @@ library(ggraph)
 > - What is cultural capital?
 > - What is social capital?
 
+## Break!
 
 ## Reading Questions
 
@@ -67,6 +82,9 @@ library(ggraph)
 
 ## Discussion Questions
 
+> - In a world dominated by digital communication and social media, are we gaining new weak ties that expand social capital or simply replacing genuine community with surface-level interaction? 
+> - To what extent can public policy realistically reverse declines in civic engagement without seeming forced or artificial?
+> - Logic of Bowling Alone
 
 ## Summary
 

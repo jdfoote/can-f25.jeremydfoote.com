@@ -15,7 +15,7 @@ date: "2025-10-06"
 
 * Granovetter, M. S. (1973). [The Strength of Weak Ties](https://www-jstor-org.ezproxy.lib.purdue.edu/stable/2776392?sid=primo&seq=1#metadata_info_tab_contents). American Journal of Sociology, 78(6), 1360–1380. https://doi.org/10.1086/225469
   * [Claude.ai summary](./pages/granovetter-summary.qmd)
-* Kadushin, C. (2012).  [Networks as Social Capital](https://ebookcentral.proquest.com/lib/purdue/reader.action?docID=829477&ppg=175), in Kadushin, C. (2012). Understanding Social Networks. Theories, Concepts and Findings. Oxford: Oxford University Press.
+* Kadushin, C. (2012).  [Networks as Social Capital](https://ebookcentral.proquest.com/lib/purdue/reader.action?docID=829477&ppg=184), in Kadushin, C. (2012). Understanding Social Networks. Theories, Concepts and Findings. Oxford: Oxford University Press.
   * [Claude.ai summary](./pages/kadushin-summary.qmd)
 * Putnam, R.D. (1995). [Bowling Alone: America's Declining Social Capital](https://muse.jhu.edu/article/16643). Journal of Democracy 6(1), 65-78.
   * [Claude.ai summary](./pages/Putnam-summary.qmd)

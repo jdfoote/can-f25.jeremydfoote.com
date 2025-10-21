@@ -29,13 +29,13 @@ Now I can't read it at all!
 
 ## Housekeeping
 
+> - Put questions on the discussion board!
 > - Final project idea due next week
-> - Social Search assignment due after Spring Break
+> - Social Search assignment due October 27
 >	  - Try to find someone with driver's license from HI
 >	  - No group texts
 >	  - Diagram search network
 >	  - Instructions on website
-> - Internet network activity?
 
 ## Also upcoming
 
@@ -85,9 +85,11 @@ Now I can't read it at all!
 
 ## Questions from 3-2-1s
 
-> - Skepticism about the Milgram experiment
-> - How does edge definition matter?
+> - What is a "groupy" network?
+> - How do "rewirings" work?
+> - How does gender relate to network distance?
 > - Social media and small worlds
+> - How do small-world dynamics and the strength of weak ties shape opportunities, inequality, and information flow in today's hyperconnected society?
 
 
 ## R Co-working time
