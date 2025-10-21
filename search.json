@@ -4,14 +4,14 @@
     "href": "syllabus/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "COM 411: Communication and Social Networks  Location: BRNG 2275  Class Hours: Tuesdays and Thursdays; 10:30–11:45 AM\n\n\nInstructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: BRNG 2156; Tuesdays; 1:00–3:00pm and by appointment"
+    "text": "COM 411: Communication and Social Networks  Location: BRNG 2275  Class Hours: Tuesdays and Thursdays; 10:30–11:45 AM\n\n\nInstructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: BRNG 2134; Tuesdays; 1:00–3:00pm and by appointment"
   },
   {
     "objectID": "syllabus/syllabus.html#instructor",
     "href": "syllabus/syllabus.html#instructor",
     "title": "Syllabus",
     "section": "",
-    "text": "Instructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: BRNG 2156; Tuesdays; 1:00–3:00pm and by appointment"
+    "text": "Instructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: BRNG 2134; Tuesdays; 1:00–3:00pm and by appointment"
   },
   {
     "objectID": "syllabus/syllabus.html#computing-resources",
@@ -53,7 +53,7 @@
     "href": "syllabus/syllabus.html#getting-help",
     "title": "Syllabus",
     "section": "Getting Help",
-    "text": "Getting Help\nYour first place to look for help should be each other. By asking and answering questions on Discord, you will not only help to build a repository of shared information but also reinforce our learning community.\nI will also hold office hours on Tuesdays, from 2-4. If you come with a programming question, I will expect that you have already tried to solve it yourself in multiple ways and that you have discussed it with a classmate. This policy lets me have time to help more students, but it’s also a useful strategy. Often just trying to explain your code can help you to recognize where you’ve gone wrong.\nI will also check Discord at least once a day. I encourage you to post questions there, and to use it as a space where we can help and instruct each other. In general, you should contact me there. I am also available by email. You can reach me at jdfoote@purdue.edu. I try hard to maintain a boundary between work and home and I typically respond only on weekdays during business hours.\n\nOnline Resources\nProgramming can be difficult and frustrating and confusing, but you will get it! I have put together a few resources to help you with the programming portion of the course. Come back to these when you get stuck.\n\nFinding and fixing bugs in your code: Video HTML file\nIntro to ggraph and tidygraph: Video HTML file"
+    "text": "Getting Help\nYour first place to look for help should be each other. By asking and answering questions on Discord, you will not only help to build a repository of shared information but also reinforce our learning community.\nI will also hold office hours on Tuesdays, from 1-3. If you come with a programming question, I will expect that you have already tried to solve it yourself in multiple ways and that you have discussed it with a classmate. This policy lets me have time to help more students, but it’s also a useful strategy. Often just trying to explain your code can help you to recognize where you’ve gone wrong.\nI will also check Discord at least once a day. I encourage you to post questions there, and to use it as a space where we can help and instruct each other. In general, you should contact me there. I am also available by email. You can reach me at jdfoote@purdue.edu. I try hard to maintain a boundary between work and home and I typically respond only on weekdays during business hours.\n\nOnline Resources\nProgramming can be difficult and frustrating and confusing, but you will get it! I have put together a few resources to help you with the programming portion of the course. Come back to these when you get stuck.\n\nFinding and fixing bugs in your code: Video HTML file\nIntro to ggraph and tidygraph: Video HTML file"
   },
   {
     "objectID": "syllabus/syllabus.html#participation",
@@ -815,34 +815,6 @@
     "text": "Housekeeping\n\nThursday - 6 Degrees of Wikipedia\nFinal Project Ideas due (yesterday)\nSelf Assessment, Lab 6, and Social Search all due after Spring Break\n6 degrees of Wikipedia on Thursday"
   },
   {
-    "objectID": "lectures/class_lectures/week_9.html#troubled-lands-reflection",
-    "href": "lectures/class_lectures/week_9.html#troubled-lands-reflection",
-    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
-    "section": "Troubled Lands Reflection",
-    "text": "Troubled Lands Reflection"
-  },
-  {
-    "objectID": "lectures/class_lectures/week_9.html#troubled-lands-reflection-1",
-    "href": "lectures/class_lectures/week_9.html#troubled-lands-reflection-1",
-    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
-    "section": "Troubled Lands Reflection",
-    "text": "Troubled Lands Reflection\n\nWhat did you think about while playing?\nHow did you feel as you played? Did those feeling change across different versions of the game?\nWhen do you help others in real life?"
-  },
-  {
-    "objectID": "lectures/class_lectures/week_9.html#troubled-lands-reflection-2",
-    "href": "lectures/class_lectures/week_9.html#troubled-lands-reflection-2",
-    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
-    "section": "Troubled Lands Reflection",
-    "text": "Troubled Lands Reflection\n\nWere resources and abilities distributed fairly?\nHow should resources be distributed in the real world?\nWhat role did communication play? How did your group make decisions?\nDid you work to make things equal? Why or why not?\nWhat kinds of inequality appeared in the game?"
-  },
-  {
-    "objectID": "lectures/class_lectures/week_9.html#troubled-lands-reflection-3",
-    "href": "lectures/class_lectures/week_9.html#troubled-lands-reflection-3",
-    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
-    "section": "Troubled Lands Reflection",
-    "text": "Troubled Lands Reflection\n\nDid anyone sanction someone else? Why?"
-  },
-  {
     "objectID": "lectures/class_lectures/week_9.html#review-questions",
     "href": "lectures/class_lectures/week_9.html#review-questions",
     "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
@@ -875,7 +847,21 @@
     "href": "lectures/class_lectures/week_9.html#discussion-questions",
     "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Discussion Questions",
-    "text": "Discussion Questions\n\nWhat are the limits of scale-free networks?\nShould we try to limit them more?"
+    "text": "Discussion Questions\n\nWhere else do rich-get-richer dynamics appear in society?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_9.html#discussion-questions-1",
+    "href": "lectures/class_lectures/week_9.html#discussion-questions-1",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nWhat are other situations outside of detecting illness outbreaks and focus interventions where the friendship paradox could be applied for good?\nIf the friendship paradox shows that people who are more connected appear more often in others’ social circles, how does this affect the way we view ourselves and others on social media?\nDoes the friendship paradox only apply to popularity (degree), or could it apply to other attributes (e.g., wealth, happiness, etc.)?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_9.html#discussion-questions-2",
+    "href": "lectures/class_lectures/week_9.html#discussion-questions-2",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nCould other things outweigh rich-get-richer in real-world networks? What are some examples?\nWhen does the friendship paradox mean that popular people are over-represented? How can we avoid this bias?\nHow does foci and homophily impact the friendship paradox?"
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#visualization-challenge",
@@ -899,6 +885,13 @@
     "text": "Housekeeping\n\nWho Dunnit game on Thursday!\nQuestions about final projects?"
   },
   {
+    "objectID": "lectures/class_lectures/week_7.html#r-review",
+    "href": "lectures/class_lectures/week_7.html#r-review",
+    "title": "Communication and Social Networks",
+    "section": "R Review",
+    "text": "R Review\nG |&gt;\n  ggraph(layout='kk') +\n  geom_edge_fan(width=.5, color='#CFB991') +\n  geom_node_point()\n\nWhat does the + do?\nWhat does the |&gt; do?\nWhat does layout='kk' do?\nWhat does width=.5 do?"
+  },
+  {
     "objectID": "lectures/class_lectures/week_7.html#reading-questions",
     "href": "lectures/class_lectures/week_7.html#reading-questions",
     "title": "Communication and Social Networks",
@@ -911,6 +904,13 @@
     "title": "Communication and Social Networks",
     "section": "Reading Questions",
     "text": "Reading Questions\n\nWhat is capital?\nWhat is economic capital?\nWhat is cultural capital?\nWhat is social capital?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_7.html#break",
+    "href": "lectures/class_lectures/week_7.html#break",
+    "title": "Communication and Social Networks",
+    "section": "Break!",
+    "text": "Break!"
   },
   {
     "objectID": "lectures/class_lectures/week_7.html#reading-questions-2",
@@ -931,7 +931,7 @@
     "href": "lectures/class_lectures/week_7.html#discussion-questions",
     "title": "Communication and Social Networks",
     "section": "Discussion Questions",
-    "text": "Discussion Questions"
+    "text": "Discussion Questions\n\nIn a world dominated by digital communication and social media, are we gaining new weak ties that expand social capital or simply replacing genuine community with surface-level interaction?\nTo what extent can public policy realistically reverse declines in civic engagement without seeming forced or artificial?\nLogic of Bowling Alone"
   },
   {
     "objectID": "lectures/class_lectures/week_7.html#summary",
@@ -941,8 +941,8 @@
     "text": "Summary"
   },
   {
-    "objectID": "lectures/class_lectures/week_7.html#r-review",
-    "href": "lectures/class_lectures/week_7.html#r-review",
+    "objectID": "lectures/class_lectures/week_7.html#r-review-1",
+    "href": "lectures/class_lectures/week_7.html#r-review-1",
     "title": "Communication and Social Networks",
     "section": "R Review",
     "text": "R Review"
@@ -3190,7 +3190,7 @@
     "href": "lectures/class_lectures/week_8.html#housekeeping",
     "title": "Weak Ties and Small Worlds",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nFinal project idea due next week\nSocial Search assignment due after Spring Break\n\nTry to find someone with driver’s license from HI\nNo group texts\nDiagram search network\nInstructions on website\n\nInternet network activity?"
+    "text": "Housekeeping\n\nPut questions on the discussion board!\nFinal project idea due next week\nSocial Search assignment due October 27\n\nTry to find someone with driver’s license from HI\nNo group texts\nDiagram search network\nInstructions on website"
   },
   {
     "objectID": "lectures/class_lectures/week_8.html#also-upcoming",
@@ -3225,7 +3225,7 @@
     "href": "lectures/class_lectures/week_8.html#questions-from-3-2-1s",
     "title": "Weak Ties and Small Worlds",
     "section": "Questions from 3-2-1s",
-    "text": "Questions from 3-2-1s\n\nSkepticism about the Milgram experiment\nHow does edge definition matter?\nSocial media and small worlds"
+    "text": "Questions from 3-2-1s\n\nWhat is a “groupy” network?\nHow do “rewirings” work?\nHow does gender relate to network distance?\nSocial media and small worlds\nHow do small-world dynamics and the strength of weak ties shape opportunities, inequality, and information flow in today’s hyperconnected society?"
   },
   {
     "objectID": "lectures/class_lectures/week_8.html#r-co-working-time",
