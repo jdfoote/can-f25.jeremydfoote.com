@@ -189,7 +189,7 @@
     "href": "schedule/week_12.html",
     "title": "Week 12: Collective behavior",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nR Lab 7 - Finding and visualizing groups in networks\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nBecker, J., Brackbill, D., & Centola, D. (2017). Network dynamics of social influence in the wisdom of crowds. Proceedings of the National Academy of Sciences, 201615978.\nVideo discussion with Dr. Becker (watch after reading paper)\nBook Guessing Form (in-class activity)\n\n\n\nThursday\n\nExam Review\n\n\n\nDiscussion Questions",
+    "text": "Tuesday\nAssignment Due:\n\nR Lab 7 - Finding and visualizing groups in networks\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nWoolley, A. et al. (2010). Evidence for a collective intelligence factor in the performance of human groups. Science, 330(6004), 686-688.\nBecker, J., Brackbill, D., & Centola, D. (2017). Network dynamics of social influence in the wisdom of crowds. Proceedings of the National Academy of Sciences, 201615978.\nVideo discussion with Dr. Becker (watch after reading paper)\n(Optional) Optimizing Collective Intelligence with Anita Woolley\nBook Guessing Form (in-class activity)\n\n\n\nThursday\n\nExam Review\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -1505,7 +1505,7 @@
     "href": "lectures/class_lectures/week_10.html#plan-for-today",
     "title": "Diffusion and Contagion",
     "section": "Plan for today",
-    "text": "Plan for today\n\nDiffusion and contagion review\nDiscussion questions"
+    "text": "Plan for today\n\nDiffusion and contagion review\nDiscussion questions\nR Review"
   },
   {
     "objectID": "lectures/class_lectures/week_10.html#review-questions",
@@ -1536,11 +1536,32 @@
     "text": "Review Questions\n\nWhat is an example of simple contagion?\nWhat is an example of something that spreads via complex contagion?\nWhat’s an example of when you’ve been influenced?\nHow does tie strength relate to contagion?\nWhat was the argument of the “Special People” chapter?"
   },
   {
+    "objectID": "lectures/class_lectures/week_10.html#r-review",
+    "href": "lectures/class_lectures/week_10.html#r-review",
+    "title": "Diffusion and Contagion",
+    "section": "R Review",
+    "text": "R Review"
+  },
+  {
     "objectID": "lectures/class_lectures/week_10.html#discussion-questions",
     "href": "lectures/class_lectures/week_10.html#discussion-questions",
     "title": "Diffusion and Contagion",
     "section": "Discussion Questions",
-    "text": "Discussion Questions\n\nWhy is it still so difficult to anticipate what will become popular or go viral when we have so much data now?\nHave marketers used the findings of the Special People chapter? If not, why not?\nHow can we avoid being led astray by our networks?"
+    "text": "Discussion Questions\n\nIf there was a world where we didn’t HAVE to have special people or things, would there be a “best” or “most popular” of everything? Or would we simply just have certain paintings, people, and places that are better than others but not necessarily labeled as such?\nIf what we do is influenced by what others do, how can we stay secure in our individuality in social networks?\nWhy is it still so difficult to anticipate what will become popular or go viral when we have so much data now?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_10.html#discussion-questions-1",
+    "href": "lectures/class_lectures/week_10.html#discussion-questions-1",
+    "title": "Diffusion and Contagion",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nHave marketers used the findings of the Special People chapter? If not, why not?\nHow can we avoid being led astray by our networks?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_10.html#discussion-questions-2",
+    "href": "lectures/class_lectures/week_10.html#discussion-questions-2",
+    "title": "Diffusion and Contagion",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nWhat do we mean by influencers?\nWhat do we mean by post hoc explanations?\nHow can we design better decision-making systems, in government, business, or media, that limit the errors caused by overreliance on “common sense” explanations?\nBig data and predictability"
   },
   {
     "objectID": "lectures/class_lectures/week_10.html#wisdom-madness-of-crowds",
@@ -3731,7 +3752,7 @@
     "href": "schedule/week_13.html",
     "title": "Week 13: Technology and networks",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nPariser, E. Beware Online Filter Bubbles TED talk\nFletcher, R. The truth behind filter bubbles: Bursting some myths.\nBail, C. Should we break our echo chambers?\nCohen, M. Context Collapse\n(Optional) Kleinberg, J. (2012). The Convergence of Social and Technological Networks. In M. Agrawal, S. B. Cooper, & A. Li (Eds.), Theory and Applications of Models of Computation.\nChris Bail, et al. (2018). Exposure to opposing views on social media can increase political polarization. PNAS.\n\nLecture Video:\n [19:38]\n\nSlides\n\n\n\n\n\nThursday\n\nIn class exam!\n\nStudy Guide\n\n\n\n\nDiscussion Questions",
+    "text": "Tuesday\nAssignment Due:\n\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nPariser, E. Beware Online Filter Bubbles TED talk\nFletcher, R. The truth behind filter bubbles: Bursting some myths.\nBail, C. Should we break our echo chambers?\nCohen, M. Context Collapse\nChris Bail, et al. (2018). Exposure to opposing views on social media can increase political polarization. PNAS.\n(Optional) Kleinberg, J. (2012). The Convergence of Social and Technological Networks. In M. Agrawal, S. B. Cooper, & A. Li (Eds.), Theory and Applications of Models of Computation.\n\nLecture Video:\n [19:38]\n\nSlides\n\n\n\n\n\nThursday\n\nIn class exam!\n\nStudy Guide\n\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
