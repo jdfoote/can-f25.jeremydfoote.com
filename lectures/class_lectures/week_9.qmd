@@ -35,6 +35,7 @@ Because he couldn't find a date.
 > - Self Assessment, Lab 6, and Social Search all due after Spring Break
 > - 6 degrees of Wikipedia on Thursday
 
+<!--
 ## Troubled Lands Reflection
 
 ![](images/troubled_lands.jpg)
@@ -56,6 +57,7 @@ Because he couldn't find a date.
 ## Troubled Lands Reflection
 
 > - Did anyone sanction someone else? Why?
+-->
 
 ## Review Questions
 
@@ -112,6 +114,7 @@ df |>
 </div>
 </div>
 
+
 ## Review Questions
 
 > - What is a scale-free distribution?
@@ -162,9 +165,19 @@ p +
 
 ## Discussion Questions
 
-> - What are the limits of scale-free networks?
-> - Should we try to limit them more?
+> - Where else do rich-get-richer dynamics appear in society?
 
+## Discussion Questions
+
+> - What are other situations outside of detecting illness outbreaks and focus interventions where the friendship paradox could be applied for good?
+> - If the friendship paradox shows that people who are more connected appear more often in others' social circles, how does this affect the way we view ourselves and others on social media?
+> - Does the friendship paradox only apply to popularity (degree), or could it apply to other attributes (e.g., wealth, happiness, etc.)?
+
+## Discussion Questions
+
+> - Could other things outweigh rich-get-richer in real-world networks? What are some examples?
+> - When does the friendship paradox mean that popular people are over-represented? How can we avoid this bias?
+> - How does foci and homophily impact the friendship paradox? 
 
 ## Visualization Challenge
 

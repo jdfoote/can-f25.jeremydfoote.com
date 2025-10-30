@@ -52,6 +52,7 @@ Me: "Listening. I would say listening is my biggest weakness."
 
 > - Diffusion and contagion review
 > - Discussion questions
+> - R Review
 
 ## Review Questions
 
@@ -133,13 +134,26 @@ create_notable('zachary') |>
 > - How does tie strength relate to contagion?
 > - What was the argument of the "Special People" chapter?
 
+## R Review
+
 
 ## Discussion Questions
 
+> - If there was a world where we didn't HAVE to have special people or things, would there be a "best" or "most popular" of everything? Or would we simply just have certain paintings, people, and places that are better than others but not necessarily labeled as such?
+> - If what we do is influenced by what others do, how can we stay secure in our individuality in social networks?
 > - Why is it still so difficult to anticipate what will become popular or go viral when we have so much data now?
+
+## Discussion Questions
+
 > - Have marketers used the findings of the Special People chapter? If not, why not?
 > - How can we avoid being led astray by our networks?
 
+## Discussion Questions
+
+> - What do we mean by influencers?
+> - What do we mean by post hoc explanations?
+> - How can we design better decision-making systems, in government, business, or media, that limit the errors caused by overreliance on "common sense" explanations?
+> - Big data and predictability
 
 ## Wisdom / Madness of Crowds
 

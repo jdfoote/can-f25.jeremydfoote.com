@@ -38,6 +38,8 @@ keep track of wrong turns).
 6.  Moon → Purdue University
 7.  Purdue University → Reno, Nevada (my hometown)
 8.  Reno, Nevada → Purdue University
+9.  Purdue University → Your hometown
+10. Your hometown → Purdue University
 
 Go to the website [Six Degrees of
 Wikipedia](https://www.sixdegreesofwikipedia.com/) and find the actual
