@@ -8,6 +8,7 @@ date: "2025-11-10"
 **Assignment Due:**
 
 * [R Lab 7 - Finding and visualizing groups in networks](/assignments/r_lab_7_%E2%80%93_groups_in_networks.qmd)
+* Submit two exam questions on Brightspace
 * [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
     * [Discussion Questions](#discussion-questions)
 

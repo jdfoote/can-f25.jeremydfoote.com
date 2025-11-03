@@ -9,7 +9,6 @@ date: "2025-11-03"
 
 * [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
   * [Discussion Questions](#discussion-questions)
-* Submit two exam questions on Brightspace
 * [Visualization Challenge](/assignments/Visualization-challenge.qmd)
 * Sign up for a Self Reflection Discussion [on my calendar](https://app.simplymeet.me/jeremy-foote/15min)
   * Please prioritize office hours (Tuesdays from 2-4)
