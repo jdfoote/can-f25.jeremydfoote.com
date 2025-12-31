@@ -33,9 +33,10 @@ It was a brief case.
 >   - Rough draft on Thursday
 >   - Peer feedback by Saturday
 >   - Presentations next Tuesday and Thursday
->   - Final report due on May 2
+>   - Final report due on December 12
 > - May want to look at the Advanced R Rmd file (Week 15 on the schedule)
 > - No class on Thursday - work on final project
+
 
 ## Review Questions
 
@@ -47,7 +48,13 @@ It was a brief case.
 ## Review Questions
 
 > - What approaches could increase cross-class and cross-race relationships?
+> - How do we balance the benefits of more cross-class ties with people's freedom to choose their own friends and communities?
+> - If someone from a high-income area moved to a low-income area, does that decrease their social capital, or does it benefit those around them and raise others' social capital? 
 > - What are the downsides of these approaches?
+
+## Debate
+
+> - Proposition: Economic outcomes are primarily driven by individual effort and ability, not social networks or structures.
 
 ## R Lab 8 Review
 

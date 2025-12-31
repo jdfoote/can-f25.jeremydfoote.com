@@ -23,6 +23,9 @@ library(networkdata)
 #df = read_csv('./resources/wisdom_of_crowds_activity.csv') |>
 #  filter(is.na(Guess)==F)
 
+BOOK_1_LENGTH = 294
+BOOK_2_LENGTH = 374
+
 ```
 
 ```{r}
@@ -70,6 +73,7 @@ Times were hard.
 > - Making networks without grids
 >   -  `set_graph_style(family='sans')` or `theme_graph()`
 
+<!--
 ## AI Conversation
 
 > - There is a tension
@@ -81,10 +85,11 @@ Times were hard.
 ## AI Conversation
 
 > - Imagine that you were the instructor for a class like COM 411. How would you design the class to encourage learning given today's technological environment?
+-->
 
 ## Final Project
 
-> - Timing for final project
+> - Timing for [final project](../../assignments/final_project/Final-project.qmd)
 >	- Don't wait - get started now!
 >	- Reach out if you get stuck
 > - Look at example projects from the past
@@ -148,7 +153,7 @@ df |>
   filter(Network_Type == 'Decentralized') |>
   ggplot() +
   geom_density(aes(x = Guess, fill = as_factor(Round)), alpha = .4) + #, position='dodge', bins = 5) + 
-  geom_vline(xintercept=333, color = 'red', linetype='dashed') + 
+  geom_vline(xintercept=BOOK_1_LENGTH, color = 'red', linetype='dashed') + 
   theme_minimal() + 
   scale_fill_viridis_d(name='Round', end=.8)
 ```
@@ -160,7 +165,7 @@ df |>
   filter(Network_Type == 'Centralized') |>
   ggplot() +
   geom_density(aes(x = Guess, fill = as_factor(Round)), alpha = .4) + #, position='dodge', bins = 5) + 
-  geom_vline(xintercept=451, color = 'red', linetype='dashed') + 
+  geom_vline(xintercept=BOOK_2_LENGTH, color = 'red', linetype='dashed') + 
   theme_minimal() + 
   scale_fill_viridis_d(name='Round', end = .8)
 ```
@@ -171,9 +176,21 @@ df |>
 >   - Transactive memory
 >   - Hierarchy
 >   - Centralization
+
+## Connections to other network concepts
 > - How could you design a group / network to get the benefits of the wisdom of crowds?
 > - When would you expect a wisdom of crowds approach to work well?
 > - When would you expect it to fail?
+
+## Discussion Questions
+
+> - What are the most practical ways to design communication networks or platforms that promote decentralized influence?
+> - What are some real-life examples of collective intelligence making smart decisions regarding norms, such as when IP implicitly became the norm for network communication, as mentioned in the discussion video?
+> - If collective intelligence relies on social structures more than on individual skills, then what might schools, organizations, or communities do to foster environments that promote informed participation and the real "wisdom of the crowd"?
+
+<aside class="notes">
+- If there's time, talk about R
+</aside>
 
 ## Plan for Today
 
@@ -249,6 +266,7 @@ G |>
 
 > - Friendship paradox
 > - Strength of weak ties
+> - Wisdom of crowds / collective intelligence
 
 <!--
 ## Review Questions
