@@ -1288,7 +1288,7 @@
     "href": "lectures/class_lectures/week_14.html#housekeeping",
     "title": "Week 14 - Networks and Inequality",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nFinal project schedule\n\nRough draft on Thursday\nPeer feedback by Saturday\nPresentations next Tuesday and Thursday\nFinal report due on May 2\n\nMay want to look at the Advanced R Rmd file (Week 15 on the schedule)\nNo class on Thursday - work on final project"
+    "text": "Housekeeping\n\nFinal project schedule\n\nRough draft on Thursday\nPeer feedback by Saturday\nPresentations next Tuesday and Thursday\nFinal report due on December 12\n\nMay want to look at the Advanced R Rmd file (Week 15 on the schedule)\nNo class on Thursday - work on final project"
   },
   {
     "objectID": "lectures/class_lectures/week_14.html#review-questions",
@@ -1302,7 +1302,14 @@
     "href": "lectures/class_lectures/week_14.html#review-questions-1",
     "title": "Week 14 - Networks and Inequality",
     "section": "Review Questions",
-    "text": "Review Questions\n\nWhat approaches could increase cross-class and cross-race relationships?\nWhat are the downsides of these approaches?"
+    "text": "Review Questions\n\nWhat approaches could increase cross-class and cross-race relationships?\nHow do we balance the benefits of more cross-class ties with people’s freedom to choose their own friends and communities?\nIf someone from a high-income area moved to a low-income area, does that decrease their social capital, or does it benefit those around them and raise others’ social capital?\nWhat are the downsides of these approaches?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_14.html#debate",
+    "href": "lectures/class_lectures/week_14.html#debate",
+    "title": "Week 14 - Networks and Inequality",
+    "section": "Debate",
+    "text": "Debate\n\nProposition: Economic outcomes are primarily driven by individual effort and ability, not social networks or structures."
   },
   {
     "objectID": "lectures/class_lectures/week_14.html#r-lab-8-review",
@@ -1324,20 +1331,6 @@
     "title": "Week 12 - Collective Behavior",
     "section": "Housekeeping",
     "text": "Housekeeping\n\nExam next week\nOne page of notes, front and back (printed)\n\nShort response + multiple choice\n\nMaking networks without grids\n\nset_graph_style(family='sans') or theme_graph()"
-  },
-  {
-    "objectID": "lectures/class_lectures/week_12.html#ai-conversation",
-    "href": "lectures/class_lectures/week_12.html#ai-conversation",
-    "title": "Week 12 - Collective Behavior",
-    "section": "AI Conversation",
-    "text": "AI Conversation\n\nThere is a tension\n\nUniversities are meant to educate and credential\nAI is an amazing tutor\nBut it can also be used to substitute for learning and make evaluation much more difficult\nAI can help us to understand deeper, or to pretend that we understand deeper."
-  },
-  {
-    "objectID": "lectures/class_lectures/week_12.html#ai-conversation-1",
-    "href": "lectures/class_lectures/week_12.html#ai-conversation-1",
-    "title": "Week 12 - Collective Behavior",
-    "section": "AI Conversation",
-    "text": "AI Conversation\n\nImagine that you were the instructor for a class like COM 411. How would you design the class to encourage learning given today’s technological environment?"
   },
   {
     "objectID": "lectures/class_lectures/week_12.html#final-project",
@@ -1421,7 +1414,21 @@
     "href": "lectures/class_lectures/week_12.html#connections-to-other-network-concepts",
     "title": "Week 12 - Collective Behavior",
     "section": "Connections to other network concepts",
-    "text": "Connections to other network concepts\n\nHow does this relate to our week on small group networks?\n\nTransactive memory\nHierarchy\nCentralization\n\nHow could you design a group / network to get the benefits of the wisdom of crowds?\nWhen would you expect a wisdom of crowds approach to work well?\nWhen would you expect it to fail?"
+    "text": "Connections to other network concepts\n\nHow does this relate to our week on small group networks?\n\nTransactive memory\nHierarchy\nCentralization"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_12.html#connections-to-other-network-concepts-1",
+    "href": "lectures/class_lectures/week_12.html#connections-to-other-network-concepts-1",
+    "title": "Week 12 - Collective Behavior",
+    "section": "Connections to other network concepts",
+    "text": "Connections to other network concepts\n\nHow could you design a group / network to get the benefits of the wisdom of crowds?\nWhen would you expect a wisdom of crowds approach to work well?\nWhen would you expect it to fail?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_12.html#discussion-questions",
+    "href": "lectures/class_lectures/week_12.html#discussion-questions",
+    "title": "Week 12 - Collective Behavior",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nWhat are the most practical ways to design communication networks or platforms that promote decentralized influence?\nWhat are some real-life examples of collective intelligence making smart decisions regarding norms, such as when IP implicitly became the norm for network communication, as mentioned in the discussion video?\nIf collective intelligence relies on social structures more than on individual skills, then what might schools, organizations, or communities do to foster environments that promote informed participation and the real “wisdom of the crowd”?\n\n\n\nIf there’s time, talk about R"
   },
   {
     "objectID": "lectures/class_lectures/week_12.html#plan-for-today",
@@ -1470,7 +1477,7 @@
     "href": "lectures/class_lectures/week_12.html#exam-review-4",
     "title": "Week 12 - Collective Behavior",
     "section": "Exam Review",
-    "text": "Exam Review\n\nFriendship paradox\nStrength of weak ties"
+    "text": "Exam Review\n\nFriendship paradox\nStrength of weak ties\nWisdom of crowds / collective intelligence"
   },
   {
     "objectID": "lectures/class_lectures/week_10.html#dad-joke",
@@ -2840,7 +2847,7 @@
     "href": "lectures/class_lectures/week_11.html#housekeeping",
     "title": "Week 11 - Communities in Networks",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nMake an appointment for Self Assessment Reflection review\nSubmit Exam Questions ASAP\nInternet technologies demo on Thursday\nExam April 17\nExam review April 10"
+    "text": "Housekeeping\n\nMake an appointment for Self Assessment Reflection review\nSubmit Exam Questions ASAP\nInternet technologies demo on Thursday\nExam November 20\nExam review November 14\nGuest lecture November 18"
   },
   {
     "objectID": "lectures/class_lectures/week_11.html#plan-for-today",
